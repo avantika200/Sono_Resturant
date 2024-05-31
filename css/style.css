@@ -1,0 +1,70 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Canela';
+}
+.fw-500 li{
+    width: 25%;
+    text-align: center;
+}
+.fw-500 li a{
+    font-family: Friz Quadrata;
+    font-weight: 1000;
+    font-size: 20px;
+}
+.fw-500 li>img{
+    width: 15%;
+    visibility: hidden;
+}
+.fw-500 li:hover a{
+    color: #b7985d !important;
+}
+.fw-500 li:hover img{
+    visibility: visible;
+}
+.wt{
+    margin-top: 500px;
+    color: white;
+    font-family: cursive;
+    text-align: center;
+}
+.as
+{
+    color: rgb(218, 167, 71);
+    text-align: center;
+}
+
+.col-sm-4 p {
+    color: #fff;
+    font-family: 'Canela Thin';
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 0;
+    font-weight: 100;
+}
+.col-sm-4 h4{
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+}
+.col-sm-4 p span ul{
+    font-family: 'Canela Thin';
+        font-size: 20px;
+        line-height: 30px;
+        font-weight: 400;
+        margin-bottom: 0;
+}
+.col-sm-4 h4 p{
+    font-family: 'Canela Thin';
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    margin-bottom: 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.col-sm-4 h4 p span{
+    color: rgb(218, 167, 71);   
+}
